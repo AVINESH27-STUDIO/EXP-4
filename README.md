@@ -42,10 +42,13 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 Rectifier without filter
-TABULAR COLUMN
+TABULAR COLUMN:![WhatsApp Image 2025-11-14 at 13 42 47_2bd9a221](https://github.com/user-attachments/assets/8d77577d-86ec-482a-aaab-badab1bc5be7)
+
+
 Rectifier with filter
 
-WAVEFORM:
+WAVEFORM:![WhatsApp Image 2025-11-14 at 13 44 06_bb74320e](https://github.com/user-attachments/assets/3073ef6d-e5a3-4b2d-b15e-d9d21f2de7db)
+
 
 
 RESULT:
